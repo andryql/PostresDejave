@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "//Dejave.git%20/static/css/main.402b4ca0.css",
+    "main.js": "//Dejave.git%20/static/js/main.a8cd2c17.js",
+    "static/media/carousel1.jpg": "//Dejave.git%20/static/media/carousel1.5bdc2812da4820dca017.jpg",
+    "static/media/Vision1.jpg": "//Dejave.git%20/static/media/Vision1.910983214b7834bf20b4.jpg",
+    "static/media/carousel6.jpg": "//Dejave.git%20/static/media/carousel6.a195008992195b217de3.jpg",
+    "static/media/carousel3.jpg": "//Dejave.git%20/static/media/carousel3.a53862c427db9175e1ac.jpg",
+    "static/media/carousel2.jpg": "//Dejave.git%20/static/media/carousel2.fc91db93fbe1d3800853.jpg",
+    "static/media/carousel7.jpg": "//Dejave.git%20/static/media/carousel7.cf0d8500beb467e2ba17.jpg",
+    "static/media/carousel4.jpg": "//Dejave.git%20/static/media/carousel4.d85527e5154dda84e0a1.jpg",
+    "static/media/carousel5.jpg": "//Dejave.git%20/static/media/carousel5.752ad57283086a7dd26d.jpg",
+    "static/media/Mision1.jpg": "//Dejave.git%20/static/media/Mision1.5dbc585416260fa2827e.jpg",
+    "static/media/Nosotros1.jpg": "//Dejave.git%20/static/media/Nosotros1.c6336aa959d4ccb192a1.jpg",
+    "static/media/Logo.png": "//Dejave.git%20/static/media/Logo.e23e08d8bf5e5a0f6ac5.png",
+    "static/media/FondoLogoBar.jpeg": "//Dejave.git%20/static/media/FondoLogoBar.fb311b30c606e8cb0d79.jpeg",
+    "static/media/FondoLogo.jpeg": "//Dejave.git%20/static/media/FondoLogo.06f364925292c5a6a262.jpeg",
+    "static/media/Postre2.jpg": "//Dejave.git%20/static/media/Postre2.89d60de909ffdabed968.jpg",
+    "static/media/Postre3.jpg": "//Dejave.git%20/static/media/Postre3.12deeca56598cc20f3b4.jpg",
+    "static/media/Postre1.jpg": "//Dejave.git%20/static/media/Postre1.738df256a0d6fd674a29.jpg",
+    "index.html": "//Dejave.git%20/index.html",
+    "main.402b4ca0.css.map": "//Dejave.git%20/static/css/main.402b4ca0.css.map",
+    "main.a8cd2c17.js.map": "//Dejave.git%20/static/js/main.a8cd2c17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.402b4ca0.css",
+    "static/js/main.a8cd2c17.js"
+  ]
+}
